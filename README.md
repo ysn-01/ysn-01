@@ -2,5 +2,5 @@
 
 - 🎓 Estudante de **Engenharia de Sistemas Informáticos** no **Instituto Politécnico do Cávado e do Ave**  
 - ⚙ Interessado em Desenvolvimento de Software, Cibersegurança e Inteligência Artificial
-- 🔗 [LinkedIn - Yuri Nascimento](www.linkedin.com/in/yuri-nascimento1)
+- 🔗 [LinkedIn](www.linkedin.com/in/yuri-nascimento1)
 
